@@ -3,7 +3,7 @@ function App() {
   return (
     <div>
       <header>
-      <a href="/"> Qibya Teconlogy</a>
+      <a href="/"> Qibya Teconlogy 2022</a>
 
       </header>
       
@@ -28,8 +28,7 @@ function App() {
 </a>
 
 <p>
-  <strong>${product.price}</strong>
-  </p>
+  <strong>${product.price}</strong></p>
  <button> Add to cart</button>
     </div>
 
